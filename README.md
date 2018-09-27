@@ -1,5 +1,5 @@
 # ArrayPrototypes
-Array prototype application implementing binary search for day3 bootcamp
+Array prototype application implementing binary search
 
 1. Clone or download the application to your local computer
 2. Run npm install at the root directory
